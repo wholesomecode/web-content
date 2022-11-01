@@ -21,11 +21,7 @@ Lorem ipsum dolor sit amet donec facilisis ullamcorper. Sapien erat consequat a 
 ![Matt Watson](/_images/pic.jpg "Matt Watson")
 
 Faucibus vivamus mollis id purus turpis lectus aliquet justo duis praesent. Justo tellus lacinia nullam pulvinar ultrices pharetra turpis diam nibh curabitur tristique ultrices lobortis. Eros mi nulla suspendisse porta facilisi rhoncus fusce eiusmod. Duis purus porta vel magna blandit curabitur lacus praesent integer consequat semper elementum tellus. Egestas magna bibendum elit ullamcorper iaculis vestibulum nullam mi elit fames.
-
-[YouTube](https://www.youtube.com/embed/StTqXEQ2l-Y)
-
-[![Watch the video](https://img.youtube.com/vi/StTqXEQ2l-Y/hqdefault.jpg)](https://www.youtube.com/embed/StTqXEQ2l-Y)
-
+[YouTube](https://www.youtube.com/embed/StTqXEQ2l-Y)[![Watch the video](https://img.youtube.com/vi/StTqXEQ2l-Y/hqdefault.jpg)](https://www.youtube.com/embed/StTqXEQ2l-Y)
 Gravida auctor aenean nunc posuere consectetur nisi laoreet. At diam hendrerit proin est et pulvinar sodales cras. Nullam habitasse purus quis dui facilisi eiusmod donec euismod a eiusmod incididunt cursus fames consequat. Blandit turpis viverra tellus lectus auctor mauris urna nulla sagittis non fringilla. Odio semper tincidunt aenean mattis congue aliquet fames nulla.
 
 ```js
