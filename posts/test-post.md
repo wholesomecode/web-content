@@ -24,13 +24,17 @@ Faucibus vivamus mollis id purus turpis lectus aliquet justo duis praesent. Just
 
 [YouTube](https://www.youtube.com/embed/StTqXEQ2l-Y)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/StTqXEQ2l-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/hqdefault.jpg)](https://youtu.be/nTQUwghvy5Q)
 
 Gravida auctor aenean nunc posuere consectetur nisi laoreet. At diam hendrerit proin est et pulvinar sodales cras. Nullam habitasse purus quis dui facilisi eiusmod donec euismod a eiusmod incididunt cursus fames consequat. Blandit turpis viverra tellus lectus auctor mauris urna nulla sagittis non fringilla. Odio semper tincidunt aenean mattis congue aliquet fames nulla.
 
 ```js
 console.log( 'Hello World' );
 console.log( 'Another World' );
+if ( something === 1 ) {
+	// Do something.
+	console.log( 'something' );
+}
 ```
 
 Facilisis auctor a nibh id erat bibendum eleifend aliqua pulvinar vestibulum. Lacinia dictumst dolore pulvinar ultricies mollis quisque consequat. Facilisi sollicitudin arcu mi tortor facilisi sodales elit eu vestibulum imperdiet. Incididunt elementum aenean proin mauris luctus neque nibh ullamcorper sollicitudin venenatis donec pulvinar. Auctor adipiscing morbi elementum massa feugiat eget mi pellentesque aliquam blandit hendrerit sapien mollis id.
