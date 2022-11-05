@@ -2,11 +2,8 @@
 title: Test GitHub Sync
 subtitle: Subtitle
 slug: test-github-sync
-tags: WordPress
-/* cover: COVER_IMAGE_URL */
+tags: PHP
 domain: wholesomecode.ltd
-publishAs: wholesomecode
-/* canonical: CANONICAL_URL_OF_ARTICLE */
 ---
 
 Lorem ipsum dolor sit amet adipiscing quis dictumst urna posuere incididunt tristique laoreet integer tellus. Ultrices malesuada gravida dolore at tincidunt integer mollis. At maecenas donec sagittis velit nunc justo fames scelerisque sed adipiscing sagittis. Dictum quis integer phasellus ac risus quisque eu incididunt sollicitudin vel phasellus. Mi congue labore aliquet suspendisse convallis ut pretium lacus sapien tincidunt incididunt vivamus.
