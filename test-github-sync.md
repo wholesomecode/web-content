@@ -4,7 +4,7 @@ subtitle: Subtitle
 slug: test-github-sync
 tags: WordPress
 /* cover: COVER_IMAGE_URL */
-domain: wholesomecode.hashnode.dev
+domain: https://wholesomecode.ltd
 publishAs: wholesomecode
 /* canonical: CANONICAL_URL_OF_ARTICLE */
 /* Only if you don't want this article to be published yet */ 
